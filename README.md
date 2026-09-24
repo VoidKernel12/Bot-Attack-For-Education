@@ -52,10 +52,10 @@ You can easily install and run VORTEX-X on **Termux** (Android) or any **Linux**
 Run the following commands in your terminal:
 
 ```bash
-git clone 
+git clone https://github.com/VoidKernel12/Bot-Attack-For-Education.git
 ```
 ```bash
-cd 
+cd Bot-Attack-For-Education
 ```
 ```bash
 chmod +x install.sh
