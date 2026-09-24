@@ -5,10 +5,17 @@
 
 ## ​⚠️ Disclaimer & Absolute No Liability
 ## ​WARNING: Please read this carefully.
-## ​Zero Liability: The creator (Void Kernel 12) and contributors of VORTEX-X take ABSOLUTE ZERO LIABILITY and hold NO RESPONSIBILITY for any server hits, traffic stress, downtime, data loss, or damages caused by this tool
-## ​User Responsibility: If you use this tool to hit any server, website, or network, you and you alone are 100% responsible for your actions. The creator does not encourage or condone unauthorized attacks or malicious usage.
-## ​Purpose: This software is strictly for educational, entertainment, and authorized personal testing environments.
-## ​By downloading, installing, or executing VORTEX-X, you completely agree that the creator (Void Kernel 12) has zero liability for anything you do with it.
+Zero Liability: The creator (Void Kernel 12) and contributors of VORTEX-X take ABSOLUTE ZERO LIABILITY and hold NO
+
+RESPONSIBILITY for any server hits, traffic stress, downtime, data loss, or damages caused by this tool
+
+ ​User Responsibility: If you use this tool to hit any server, website, or network, you and you alone are 100% 
+ 
+ responsible for your actions. The creator does not encourage or condone unauthorized attacks or malicious usage.
+ 
+ ​Purpose: This software is strictly for educational, entertainment, and authorized personal testing environments.
+ 
+ ​By downloading, installing, or executing VORTEX-X, you completely agree that the creator (Void Kernel 12) has zero liability for anything you do with it.
 
 #  VORTEX-X ⚡
 
